@@ -1,6 +1,6 @@
 # 📱📊 PlayStore Analyzer
 
-> Status: Finalizado
+> Status: Finalizadodesenvolvimento
 
 > Um projeto desenvolvido com foco em **análise de dados e visualização**, que tem como objetivo explorar e gerar insights a partir do **dataset da Google Play Store**, aplicando técnicas de limpeza, processamento e visualização de informações.
 > 
@@ -63,9 +63,8 @@ Playlytics/
 │   └── processed/      # Dados limpos
 ├── notebooks/
 │   └── playlytics_analysis.ipynb
-├── outputs/
-│   ├── charts/
-│   └── results.csv
+├── outputs/ #Graficos
+├── scripts/ #Script de limpeza dos dados
 └── README.md
 ```
 
