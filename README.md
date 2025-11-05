@@ -1,6 +1,6 @@
 # 📱📊 PlayStore Analyzer
 
-> Status: Em desenvolvimento
+> Status: Finalizado
 
 > Um projeto desenvolvido com foco em **análise de dados e visualização**, que tem como objetivo explorar e gerar insights a partir do **dataset da Google Play Store**, aplicando técnicas de limpeza, processamento e visualização de informações.
 > 
